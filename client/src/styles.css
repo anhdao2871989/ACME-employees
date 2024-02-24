@@ -1,0 +1,8 @@
+body {
+  font-family: verdana;
+}
+
+.loading {
+  background-color: dodgerBlue;
+  color: white;
+}
